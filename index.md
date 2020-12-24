@@ -15,17 +15,18 @@ Residence : *Xi'an , Shaanxi , China*
 
 ### Honors and Awards
 
-- 2020 National Olympaid of Informatics in provinces (NOIp) **1st** **Prize**
-- 2020 Certified Software Professional Senior (CSP-S) **Grade 1**
-- USA Computing Olympiad (USACO) **Gold**
-- 2020 Middle School Student CyberSpace Security Technology Contest (mssCSTC) **Finalist Top15**
-- 2021 IMMC Autumn **Outstanding** (Greater China)
-- Public English Test System (PETS) **Grade 3**
+- National Olympaid of Informatics in provinces (NOIp) **1st** **Prize** (2020.12)
+- Certified Software Professional Senior (CSP-S) **Grade 1** (2020.11)
+- USA Computing Olympiad (USACO) **Gold** (2020.12)
+- Middle School Student CyberSpace Security Technology Contest (mssCSTC) **Finalist Top15** (2020.9)
+- IMMC Autumn **Outstanding** Greater China (2020.10)
+- Technocup Programming Olympaid **Finalist** (2020.11)
+- Public English Test System (PETS) **Grade 3** (2019.3)
 
 ### Activities
 
-- Tencent Rhino Bird Scientific Talent Program **Participant**
-- Light of Youth Program · Recycling of Disused Drugs **Volunteer Program Developer**
-- Vice President of Student Union in HSAXJTU
-- CodeForces  **Pupil**
+- Tencent Rhino Bird Scientific Talent Program **Participant** (2020.5 ~ 2020.7)
+- Light of Youth Program · Recycling of Disused Drugs **Volunteer Program Developer** (2020.12 ~ 2021.1)
+- Vice President of Student Union in HSAXJTU (2019.9 ~ 2020.9)
+- CodeForces **Pupil** 
 - Luogu **Red-titled**
