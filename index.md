@@ -10,14 +10,15 @@ Residence : *Xi'an , Shaanxi , China*
 
 ### Education
 
+  - 2021.3 ~ present David Thompson Secondary
+  - 2020.9 ~ 2021.2  Xi'an Jiaotong University (XJTU) **·Honors Youth Program**
   - 2017.9 ~ 2020.7 High School Affiliated to Xi'an Jiaotong University **· Innovative Pilot Class**
-  - 2020.9 ~ present  Xi'an Jiaotong University (XJTU) **· Honors Youth Program**
 
 ### Honors and Awards
 
 - National Olympaid of Informatics in provinces (NOIp) **1st** **Prize** (2020.12)
-- Certified Software Professional Senior (CSP-S) **Grade 1** (2020.11)
-- USA Computing Olympiad (USACO) **Gold** (2020.12)
+- Certified Software Professional Senior (CSP-S) **1st** **Prize** (2020.11)
+- USA Computing Olympiad (USACO) **Platinum** (2020.12)
 - Middle School Student CyberSpace Security Technology Contest (mssCSTC) **Finalist Top15** (2020.9)
 - IMMC Autumn **Outstanding** Greater China (2020.10)
 - Technocup Programming Olympaid **Finalist** (2020.11)
